@@ -1,7 +1,12 @@
 name: miscellanea
-author: "@edm00se"
+gh_user: edm00se
+twitter_username: edm00se
+github_username: edm00se
 permalink: /misc/:title
 theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
