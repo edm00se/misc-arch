@@ -1,9 +1,11 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 class="pull-left footer-heading">{{ site.title | escape }}</h2>
     <div class="pull-right rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div>
+  </div>
+
+  <div class="wrapper">
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -38,7 +40,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+        <p class="pull-right">{{ site.description | escape }}</p>
       </div>
     </div>
 

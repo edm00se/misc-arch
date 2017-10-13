@@ -1,4 +1,5 @@
 name: miscellanea
+author: "@edm00se"
 permalink: /misc/:title
 theme: minima
 plugins:
