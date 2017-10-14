@@ -11,8 +11,8 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>
-            {% if site.github_username %}
-              <a href="https://github.com/{{ site.github_username }}">@{{ site.github_username | escape }}</a>
+            {% if site.author %}
+              {{ site.author | escape }}
             {% else %}
               {{ site.title | escape }}
             {% endif %}

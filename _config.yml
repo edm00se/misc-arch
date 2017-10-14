@@ -1,5 +1,7 @@
 name: miscellanea
-gh_user: edm00se
+author: Eric McCormick
+description: >
+  A micro-site for miscellaneous throughts, musings, and other things that don't quite fit in my blog or AMA.
 twitter_username: edm00se
 github_username: edm00se
 permalink: /misc/:title
