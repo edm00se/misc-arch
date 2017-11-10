@@ -1,10 +1,12 @@
 name: miscellanea
 author: Eric McCormick
-description: >
-  A micro-site for miscellaneous throughts, musings, and other things that don't quite fit in my blog or AMA.
+shortname: misc
 twitter_username: edm00se
 github_username: edm00se
-permalink: /misc/:title
+google_analytics: UA-53507706-3
+url: "https://edm00se.codes/"
+baseurl: "misc"
+permalink: :title
 theme: minima
 exclude:
   - Gemfile

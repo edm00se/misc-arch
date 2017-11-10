@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "misc"
 comments: false
+layout: home
 ---
 
 ## Miscellanea
