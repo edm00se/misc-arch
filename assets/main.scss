@@ -9,6 +9,18 @@ $grey-color-dark: #adadad; /* such as the site title in the header, visited */
 
 @import "{{ site.theme }}";
 
+/* establishes a 9-column grid for category pages */
+.grid-wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+
+  .content-element {
+    grid-column: span 1;
+    text-align: center;
+  }
+}
+
 .pull-left {
   float: left !important;
 }

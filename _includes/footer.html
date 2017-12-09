@@ -1,7 +1,7 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-    <h2 class="pull-left footer-heading">{{ site.shortname | escape }}</h2>
+    <h2 class="pull-left footer-heading">{{ site.shortname | escape }}{% if page.dir <> '/' %}{% assign dirsize = page.dir | size | minus: 1 %}{{ page.dir | slice: 0, dirsize }}{% endif %}</h2>
     <div class="pull-right rss-subscribe footer-col-wrapper">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div>
   </div>
 

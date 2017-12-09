@@ -15,3 +15,10 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# collections
+# collections:
+#   # development track
+#   dev:
+#     output: true
+#     permalink: /:collection/:name
