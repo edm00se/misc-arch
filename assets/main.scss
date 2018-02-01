@@ -32,6 +32,8 @@ $grey-color-dark: #adadad; /* such as the site title in the header, visited */
 .center {
   text-align: center;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   * {
     display: inline-block;
     margin-left: auto;
