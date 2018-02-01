@@ -4,6 +4,8 @@ shortname: misc
 twitter_username: edm00se
 github_username: edm00se
 google_analytics: UA-53507706-3
+disqus:
+  shortname: edm00se-misc
 url: "https://edm00se.codes/"
 baseurl: "misc"
 permalink: :title
