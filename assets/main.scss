@@ -38,3 +38,24 @@ $grey-color-dark: #adadad; /* such as the site title in the header, visited */
     margin-right: auto;
   }
 }
+
+a.header-link {
+  position: relative;
+}
+
+.post-content .header-link {
+  opacity: 0;
+  padding-left: 0.5rem;
+
+  -webkit-transition: opacity 0.2s ease-in-out 0.1s;
+  -moz-transition: opacity 0.2s ease-in-out 0.1s;
+  -ms-transition: opacity 0.2s ease-in-out 0.1s;
+}
+.post-content h1:hover .header-link,
+.post-content h2:hover .header-link,
+.post-content h3:hover .header-link,
+.post-content h4:hover .header-link,
+.post-content h5:hover .header-link,
+.post-content h6:hover .header-link {
+  opacity: 1;
+ }
