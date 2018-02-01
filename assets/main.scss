@@ -28,3 +28,13 @@ $grey-color-dark: #adadad; /* such as the site title in the header, visited */
 .pull-right {
   float: right !important;
 }
+
+.center {
+  text-align: center;
+  display: block;
+  * {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
