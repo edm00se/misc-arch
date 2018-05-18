@@ -1,10 +1,10 @@
 <template>
   <nav v-if="userLinks.length">
     <div
-      v-for="item in userLinks"
+      v-for="item, pos in userLinks"
       :key="item.link">
         <NavLink v-if="item.type !== 'links'" :item="item"/>
-        <hr>
+        <hr v-if="!((pos+1) === userLinks.length)">
     </div>
   </nav>
 </template>

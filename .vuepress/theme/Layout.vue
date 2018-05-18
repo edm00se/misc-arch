@@ -39,7 +39,7 @@
 
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <p class="small">&copy; 2018 {{ $siteTitle }}. Code released under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a></p>
+                    <p class="small">&copy; 2018 {{ $siteTitle }} | <a href="https://edm00se.codes/">@edm00se</a></p>
                 </div>
             </div>
         </center>
