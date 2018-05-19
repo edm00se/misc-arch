@@ -14,8 +14,7 @@ A couple of years ago, Makerbot posted a 3D printable file for a highly detailed
 
 Last year in the spring, my family took a weekend trip down to Chicago. We saw [SUE (Specimen FMNH PR 2081)](https://twitter.com/SUEtheTrex) at [The Field Museum](https://www.fieldmuseum.org/at-the-field/exhibitions/sue-t-rex), as well as [Jurassic World: The Exhibition](https://www.fieldmuseum.org/at-the-field/exhibitions/jurassic-world-exhibition). Both were great, but my 3yo thought that SUE was more fun to look at, since it didn't move and didn't come with the scary experience ambiance. My wife and I had no idea the level of terror we might instill in my daughter, but we sure got to find out. Even after a kids activity room with coloring, which she really enjoyed, she kept peeking over my shoulder to see if the Indominous Rex was going to come in and cause trouble. Thankfully that "trauma" wore off after an hour and some food, so she's no worse for the wear. Parenting, good times 😅.
 
-### TODO: embed tweet
-https://twitter.com/edm00se/status/868915780779466752
+<Tweeter :id="'868915780779466752'" />
 
 One thing I was happy about was that in spite of that bit of emotional scarring, my daughter still enjoyed seeing all the (non-moving) dinosaur fossils and other ancient animal exhibits, just not "the scary ones". She loves animals and going to zoos, so thankfully she was still good with things, if a little wary of some thankfully extinct creatures. The Field Museum made for a great visit and certainly was appreciated by all of us. If you get the chance to go and have not been, I recommend it.
 
