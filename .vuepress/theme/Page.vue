@@ -124,4 +124,8 @@ $borderColor = #eaecef
     padding-top 1rem
   .next
     float right
+
+h1:hover .header-anchor, h2:hover .header-anchor, h3:hover .header-anchor
+  display: inline-block
+  text-decoration: none
 </style>
