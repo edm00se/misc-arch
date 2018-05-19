@@ -5,6 +5,8 @@
   "scripts": {
     "dev": "vuepress dev .",
     "build": "vuepress build .",
+    "prep-gh-pages": "cpy .nojekyll .vuepress/dist/",
+    "travis:deploy": "gh-pages --repo https://$GH_TOKEN@github.com/edm00se/misc.git -d .vuepress/dist -b gh-pages -t",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -31,6 +33,7 @@
     "vue-tweet-embed": "2.1.1"
   },
   "devDependencies": {
+    "cpy-cli": "1.0.1",
     "gh-pages": "1.1.0"
   }
 }
