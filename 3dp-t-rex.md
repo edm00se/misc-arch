@@ -18,10 +18,10 @@ Last year in the spring, my family took a weekend trip down to Chicago. We saw [
 
 One thing I was happy about was that in spite of that bit of emotional scarring, my daughter still enjoyed seeing all the (non-moving) dinosaur fossils and other ancient animal exhibits, just not "the scary ones". She loves animals and going to zoos, so thankfully she was still good with things, if a little wary of some thankfully extinct creatures. The Field Museum made for a great visit and certainly was appreciated by all of us. If you get the chance to go and have not been, I recommend it.
 
-![The Field Museum Lobby](./img/TheFieldMuseum.jpg)
+![The Field Museum Lobby](@img/TheFieldMuseum.jpg)
 The Field Museum lobby.
 
-![SUE the T Rex](./img/SUE.jpg)
+![SUE the T Rex](@img/SUE.jpg)
 SUE's close up shot.
 
 # 3D Printing Stats
@@ -50,20 +50,20 @@ From the Thingiverse description. My print times are likely longer, as I'm going
 
 Here's an "action shot" of one of the sets of ribs being printed out.
 
-![3D printing action shot](./img/3dp-action-shot.png)
+![3D printing action shot](@img/3dp-action-shot.png)
 Action shot!
 
 Once all the parts finished printing out, I hauled my box of dinosaur parts upstairs in a box, then cleaned them up a bit, and assembled them with the tiny mammal.
 
-![box o' dino parts](./img/Box_of_Dino_parts.jpg)
+![box o' dino parts](@img/Box_of_Dino_parts.jpg)
 A box of dinosaur parts...
 
 # Results!
 
-![dinosaur assembled!](./img/REXie_Complete.jpg)
+![dinosaur assembled!](@img/REXie_Complete.jpg)
 We have a T-Rex.
 
-![you must go faster!](./img/Must_Go_Faster.jpg)
+![you must go faster!](@img/Must_Go_Faster.jpg)
 You must go faster!
 
 If you want, you can view [my "make" of the model on Thingiverse](https://www.thingiverse.com/make:444581).
