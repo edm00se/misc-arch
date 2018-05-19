@@ -8,6 +8,4 @@ branches:
   only:
     - master
 script:
-  - npm run build
-  - npm run prep-gh-pages
   - npm run travis:deploy
