@@ -55,7 +55,7 @@ Action shot!
 
 Once all the parts finished printing out, I hauled my box of dinosaur parts upstairs in a box, then cleaned them up a bit, and assembled them with the tiny mammal.
 
-![box o' dino parts](img/Box_of_Dino_parts.jpg)
+![box o' dino parts](img/Box_of_Dino_Parts.jpg)
 A box of dinosaur parts...
 
 # Results!
