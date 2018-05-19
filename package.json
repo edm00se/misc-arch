@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/edm00se/misc.git"
   },
+  "main": ".vuepress/config.js",
   "keywords": [],
   "author": "Eric McCormick (https://ericmccormick.io)",
   "license": "MIT",
