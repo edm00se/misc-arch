@@ -28,6 +28,10 @@
       </p>
     </div>
 
+    <div v-if="this.$page.frontmatter.comments === true && isProd" class="comments">
+      <vue-disqus shortname="edm00se-misc" :identifier="this.$page.title | kebabCase" :url="`https://edm00se.codes/misc${this.$page.path}`"></vue-disqus>
+    </div>
+
   </div>
 </template>
 
@@ -35,9 +39,31 @@
 import OutboundLink from '@default-theme/OutboundLink.vue'
 import { resolvePage, normalize, outboundRE, endingSlashRE } from '@default-theme/util'
 import moment from 'moment'
+import Vue from 'vue'
+import VueDisqus from 'vue-disqus'
+
+Vue.use(VueDisqus)
+
+/**
+ * Converts a string to kebab case.
+ * Example: Title Case => title-case
+ * 
+ * @param  {String} str the string to convert
+ * @return {String}
+ */
+Vue.filter('kebabCase', function (str) {  
+    return str.toLowerCase().split(' ').map(function (item) {
+        return item.charAt(0) + item.substring(1);
+    }).join('-');
+});
 
 export default {
   components: { OutboundLink },
+  data() {
+    return {
+      isProd: process.env.NODE_ENV === 'production'
+    }
+  },
   computed: {
     postDate () {
       if (this.$page.lastModified) {

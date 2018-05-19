@@ -1,5 +1,6 @@
 ---
 lastModified: '2018-02-01'
+comments: true
 ---
 
 # 3D Printing A T-Rex
