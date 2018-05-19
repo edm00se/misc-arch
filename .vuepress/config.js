@@ -3,6 +3,7 @@ const path = require('path')
 module.exports = {
   title: 'misc', // …
   description: 'a place for miscellanea',
+  base: 'misc',
   themeConfig: {
     repo: 'edm00se/misc',
     docsRepo: 'edm00se/misc',
