@@ -4,6 +4,7 @@ module.exports = {
   title: 'misc', // …
   description: 'a place for miscellanea',
   base: '/misc/',
+  ga: 'UA-53507706-3',
   themeConfig: {
     repo: 'edm00se/misc',
     docsRepo: 'edm00se/misc',
