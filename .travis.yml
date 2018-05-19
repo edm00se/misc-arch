@@ -8,6 +8,7 @@ branches:
   only:
     - master
 script:
+  - ls img
   - npm run build
   - touch .vuepress/dist/.nojekyll
 
