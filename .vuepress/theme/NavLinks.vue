@@ -52,7 +52,7 @@ export default {
     userLinks () {
       return (this.nav || [])
         .filter(link => {
-          return link.path !== '/'
+          return (link.path !== '/' && !link.frontmatter.hideFromPosts)
         })
         .sort((a, b) => {
           return moment.duration(this.postDate(b).diff(this.postDate(a)))

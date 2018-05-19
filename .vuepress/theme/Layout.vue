@@ -39,7 +39,11 @@
 
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <p class="small">&copy; 2018 {{ $siteTitle }} | <a href="https://edm00se.codes/">@edm00se</a></p>
+                    <p class="small">
+                      &copy; 2018 {{ $siteTitle }} | <a href="https://edm00se.codes/">@edm00se</a>
+                      <br/>
+                      theme based on <a href="https://github.com/whoan/vuepress-canvas">vuepress-canvas</a>
+                    </p>
                 </div>
             </div>
         </center>

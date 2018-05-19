@@ -1,3 +1,0 @@
-# Something Else
-
-Dummy content...
