@@ -15,4 +15,4 @@ showLastModified: false
 >
 > &mdash; <cite>[Merriam-Webster](https://www.merriam-webster.com/dictionary/miscellanea)</cite>
 
-A micro blog by [@edm00se](https://edm00se.codes/). Uses vuepress and a modified version of [vuepress-canvas](https://github.com/whoan/vuepress-canvas).
+A micro blog by [@edm00se](https://edm00se.codes/). Uses [vuepress](https://vuepress.vuejs.org/) and a modified version of [vuepress-canvas](https://github.com/whoan/vuepress-canvas).
