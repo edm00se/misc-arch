@@ -1,7 +1,7 @@
 const path = require('path')
 
 module.exports = {
-  title: 'misc', // …
+  title: '/misc', // …
   description: 'a place for miscellanea',
   base: '/misc/',
   ga: 'UA-53507706-3',
