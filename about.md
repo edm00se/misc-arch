@@ -3,7 +3,7 @@ hideFromPosts: true
 showLastModified: false
 ---
 
-<div>
+<div class="center">
   <a v-for="link in $site.themeConfig.usefulLinks" :key="link.href" :href="link.href" target="_blank" class="social">
     <i :class="link.cssIcon"></i>
   </a>
