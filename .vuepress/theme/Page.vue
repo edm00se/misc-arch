@@ -2,8 +2,10 @@
   <div>
 
     <article>
-      <p class="post-page-meta">{{ postDate }}</p>
-      <hr>
+      <span v-if="$page.frontmatter.showLastModified !== false">
+        <p class="post-page-meta">{{ postDate }}</p>
+        <hr>
+      </span>
       <Content :custom="false"/>
     </article>
 

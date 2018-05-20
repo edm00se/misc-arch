@@ -28,6 +28,14 @@ module.exports = {
         href: 'https://www.linkedin.com/in/emccormick',
         cssIcon: 'fa fa-fw fa-linkedin'
       }
+    ],
+
+    // custom pages
+    pages: [
+      {
+        title: 'about',
+        href: 'about.html'
+      }
     ]
   },
 

@@ -9,9 +9,11 @@
                   {{ $siteTitle }}
               </router-link>
             </h1>
-            <a v-for="link in $site.themeConfig.usefulLinks" :key="link.href" :href="link.href" target="_blank" class="social">
-              <i :class="link.cssIcon"></i>
-            </a>
+            <div class="custom-pages-list">
+              <span class="custom-page" v-for="page, pos in $site.themeConfig.pages" :key="page.href">
+                <a :href="page.href">{{page.title}}</a>
+              </span>
+            </div>
           </div>
         </div>
     </div>
@@ -40,9 +42,7 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <p class="small">
-                      &copy; 2018 {{ $siteTitle }} | <a href="https://edm00se.codes/">@edm00se</a>
-                      <br/>
-                      theme based on <a href="https://github.com/whoan/vuepress-canvas">vuepress-canvas</a>
+                      &copy; 2018 <a href="https://edm00se.codes/">@edm00se</a>
                     </p>
                 </div>
             </div>

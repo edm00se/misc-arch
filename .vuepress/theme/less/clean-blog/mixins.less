@@ -32,3 +32,40 @@
         width: 100%;
     }
 }
+
+.custom-pages-list {
+    display: block;
+    .custom-page:not(:first-child) {
+        border-left: 1px solid darkgray;
+    }
+    .custom-page {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        a {
+            text-decoration: none !important;
+            position: relative;
+        }
+        a:hover {
+            color: @brand-primary;
+        }
+        a:before {
+            content: "";
+            position: absolute;
+            width: 100%;
+            height: 2px;
+            bottom: 0;
+            left: 0;
+            background-color: @brand-primary;
+            visibility: hidden;
+            -webkit-transform: scaleX(0);
+            transform: scaleX(0);
+            -webkit-transition: all 0.3s ease-in-out 0s;
+            transition: all 0.3s ease-in-out 0s;
+        }
+        a:hover:before {
+            visibility: visible;
+            -webkit-transform: scaleX(1);
+            transform: scaleX(1);
+        }
+    }
+}
