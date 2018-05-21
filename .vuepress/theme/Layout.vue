@@ -43,6 +43,11 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <p class="small">
                       &copy; 2018 <a href="https://edm00se.codes/">@edm00se</a>
+                      <div class="center">
+                        <a v-for="link in $site.themeConfig.usefulLinks" :key="link.href" :href="link.href" target="_blank" class="social">
+                          <i :class="link.cssIcon"></i>
+                        </a>
+                      </div>
                     </p>
                 </div>
             </div>
@@ -138,5 +143,9 @@ function updateMetaTags (meta, current) {
 
   .header-anchor {
     display: none;
+  }
+
+  p.small {
+    margin-bottom: 1rem;
   }
 </style>
