@@ -29,10 +29,10 @@
     "source-sans-pro": "^2.20.2",
     "vue-disqus": "3.0.3",
     "vue-tweet-embed": "2.1.1",
-    "vuepress": "^0.8.4"
+    "vuepress": "^0.9.1"
   },
   "devDependencies": {
-    "cpy-cli": "1.0.1",
+    "cpy-cli": "2.0.0",
     "gh-pages": "1.1.0"
   }
 }
