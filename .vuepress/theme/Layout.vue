@@ -44,7 +44,8 @@
                     <p class="small">
                       &copy; 2018 <a href="https://edm00se.codes/">@edm00se</a>
                       <div class="center">
-                        <a v-for="link in $site.themeConfig.usefulLinks" :key="link.href" :href="link.href" target="_blank" class="social">
+                        <a v-for="link in $site.themeConfig.usefulLinks" :key="link.href" :href="link.href"
+                          :class="link.site" target="_blank" class="social">
                           <i :class="link.cssIcon"></i>
                         </a>
                       </div>

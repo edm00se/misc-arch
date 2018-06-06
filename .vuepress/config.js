@@ -14,19 +14,23 @@ module.exports = {
     usefulLinks: [
       {
         href: 'https://twitter.com/edm00se',
-        cssIcon: 'fa fa-fw fa-twitter'
+        cssIcon: 'fa fa-fw fa-twitter',
+        site: 'twitter'
       },
       {
         href: 'https://stackoverflow.com/cv/edm00se',
-        cssIcon: 'fa fa-fw fa-stack-overflow'
+        cssIcon: 'fa fa-fw fa-stack-overflow',
+        site: 'stackOverflow'
       },
       {
         href: 'https://github.com/edm00se',
-        cssIcon: 'fa fa-fw fa-github'
+        cssIcon: 'fa fa-fw fa-github',
+        site: 'github'
       },
       {
         href: 'https://www.linkedin.com/in/emccormick',
-        cssIcon: 'fa fa-fw fa-linkedin'
+        cssIcon: 'fa fa-fw fa-linkedin',
+        site: 'linkedin'
       }
     ],
 
