@@ -3,7 +3,7 @@
     <div
       v-for="item, pos in userLinks"
       :key="item.link">
-        <NavLink v-if="item.type !== 'links'" :item="item"/>
+        <NavLink v-if="item.type !== 'links' && item.frontmatter.lastModified" :item="item"/>
         <hr v-if="!((pos+1) === userLinks.length)">
     </div>
   </nav>
