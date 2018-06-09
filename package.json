@@ -29,7 +29,7 @@
     "source-sans-pro": "2.20.2",
     "vue-disqus": "3.0.3",
     "vue-tweet-embed": "2.1.1",
-    "vuepress": "0.10.0"
+    "vuepress": "0.10.1"
   },
   "devDependencies": {
     "cpy-cli": "2.0.0",
