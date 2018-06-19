@@ -55,7 +55,6 @@ export default {
           return (link.path !== '/' && !link.frontmatter.hideFromPosts)
         })
         .map(link => {
-          console.log(link);
           const val = String(link.title)
             .replace(/\[(.*)\]\(.*\)/, '$1') // md links of []()
             .replace(/\[(.*)\]\[.*\]/, '$1'); // md link sof [][]
