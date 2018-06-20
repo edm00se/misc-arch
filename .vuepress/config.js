@@ -39,6 +39,10 @@ module.exports = {
       {
         title: 'about',
         href: 'about.html'
+      },
+      {
+        title: 'categories',
+        href: 'categories.html'
       }
     ]
   },

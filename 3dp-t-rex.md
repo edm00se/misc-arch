@@ -1,6 +1,7 @@
 ---
 lastModified: '2018-02-01'
 comments: false
+category: '3dp'
 ---
 
 # 3D Printing A T-Rex
