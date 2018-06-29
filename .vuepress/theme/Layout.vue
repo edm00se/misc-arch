@@ -78,7 +78,10 @@ export default {
     // update title / meta tags
     this.currentMetaTags = []
     const updateMeta = () => {
-      document.title = this.$title
+      let pageTitle = this.$title
+        .replace(/\[(.*)\]\(.*\)/, '$1') // md links of []()
+        .replace(/\[(.*)\]\[.*\]/, '$1'); // md link sof [][]
+      document.title = pageTitle
       document.documentElement.lang = this.$lang
       const meta = [
         {
