@@ -1,0 +1,4 @@
+ci:
+  # make unlicensed test a warning rather than an error, globally
+  tests:
+    unlicensed: warn
