@@ -25,6 +25,8 @@ Anyone can have a GitHub account and anyone can submit board games they think ar
 
 Curious as to how to contribute?
 
+---
+
 ### [Contribution Guide][contrib-guide]
 
 Want the short version of how to format things?
