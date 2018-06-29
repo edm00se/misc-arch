@@ -5,7 +5,7 @@ comments: false
 
 # Announcing: [Awesome Board Games][awesome-bg]!
 
-A side project I've been slowly working on for a while is the [Awesome Board Games list][awesome-bg]. What's an [awesome list][awesome-orig]? It's a list of awesome things, for a particular topic. Generally these lists are hosted/kept on [GitHub][gh], a free to use site and service with code shared via [the git version control system], issue tracking, and more. Anyone can have an account and contribute to public repositories, making it for a great place for open source softare and awesome lists.
+A side project I've been slowly working on for a while is the [Awesome Board Games list][awesome-bg]. What's an [awesome list][awesome-orig]? It's a list of awesome things, for a particular topic. Generally these lists are hosted/kept on [GitHub][gh], a free to use site and service with code shared via [the git version control system][git-scm], issue tracking, and more. Anyone can have an account and contribute to public repositories, making it for a great place for open source softare and awesome lists.
 
 ## Board Games!
 
