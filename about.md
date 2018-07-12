@@ -1,6 +1,7 @@
 ---
 hideFromPosts: true
 showLastModified: false
+comments: false
 ---
 
 # Miscellanea
