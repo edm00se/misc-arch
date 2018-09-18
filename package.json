@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/edm00se/misc#readme",
   "dependencies": {
-    "bootstrap": "3.3.6",
+    "bootstrap": "^3.3.7",
     "font-awesome": "4.7.0",
     "less": "3.0.4",
     "less-loader": "4.1.0",

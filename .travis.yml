@@ -7,4 +7,4 @@ node_js:
 branches:
   only: master
 script:
-  - yarn ci:deploy
+  - npm run ci:deploy
