@@ -20,19 +20,19 @@
   },
   "homepage": "https://github.com/edm00se/misc#readme",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "3.3.7",
     "font-awesome": "4.7.0",
     "less": "3.0.4",
     "less-loader": "4.1.0",
     "moment": "2.22.2",
     "source-code-pro": "2.30.1",
     "source-sans-pro": "2.20.2",
-    "vue-disqus": "3.0.3",
-    "vue-tweet-embed": "2.1.1",
+    "vue-disqus": "3.0.5",
+    "vue-tweet-embed": "2.1.2",
     "vuepress": "0.10.1"
   },
   "devDependencies": {
     "cpy-cli": "2.0.0",
-    "gh-pages": "1.2.0"
+    "gh-pages": "2.0.1"
   }
 }
