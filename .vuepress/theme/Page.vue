@@ -38,7 +38,7 @@
 </template>
 
 <script>
-import OutboundLink from '@default-theme/OutboundLink.vue'
+import OutboundLink from './OutboundLink.vue'
 import { resolvePage, normalize, outboundRE, endingSlashRE } from '@default-theme/util'
 import moment from 'moment'
 import Vue from 'vue'
