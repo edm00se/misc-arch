@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vuepress dev .",
     "build": "vuepress build .",
-    "ci:deploy": "npm run build && cpy .nojekyll .vuepress/dist/ && gh-pages --repo https://$GH_TOKEN@github.com/edm00se/misc.git -d .vuepress/dist -b gh-pages -t",
+    "build:now": "cross-env NOW_BUILD=true vuepress build .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/edm00se/misc.git"
   },
   "keywords": [],
-  "author": "Eric McCormick (https://ericmccormick.io)",
+  "author": "Eric McCormick (https://edm00se.codes/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/edm00se/misc/issues"
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/edm00se/misc#readme",
   "dependencies": {
     "bootstrap": "3.3.7",
+    "cross-env": "^5.2.0",
     "font-awesome": "4.7.0",
     "less": "3.0.4",
     "less-loader": "4.1.0",
@@ -31,8 +32,5 @@
     "vue-tweet-embed": "2.1.2",
     "vuepress": "0.14.4"
   },
-  "devDependencies": {
-    "cpy-cli": "2.0.0",
-    "gh-pages": "2.0.1"
-  }
+  "devDependencies": {}
 }

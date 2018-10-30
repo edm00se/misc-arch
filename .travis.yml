@@ -4,7 +4,14 @@ cache:
     - "node_modules"
 node_js:
   - lts/*
-branches:
-  only: master
 script:
-  - npm run ci:deploy
+  - npm run build
+  - touch .vuepress/dist/.nojekyll
+deploy:
+  provider: pages
+  local-dir: .vuepress/dist/
+  skip-cleanup: true
+  github-token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+    branch: master
