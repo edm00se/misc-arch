@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "vuepress dev .",
     "build": "vuepress build .",
-    "ci:deploy": "npm run build && cpy .nojekyll .vuepress/dist/ && gh-pages --repo https://$GH_TOKEN@github.com/edm00se/misc.git -d .vuepress/dist -b gh-pages -t",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,7 +12,7 @@
     "url": "git+https://github.com/edm00se/misc.git"
   },
   "keywords": [],
-  "author": "Eric McCormick (https://ericmccormick.io)",
+  "author": "Eric McCormick (https://edm00se.codes/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/edm00se/misc/issues"
@@ -31,8 +30,5 @@
     "vue-tweet-embed": "2.1.2",
     "vuepress": "0.14.4"
   },
-  "devDependencies": {
-    "cpy-cli": "2.0.0",
-    "gh-pages": "2.0.1"
-  }
+  "devDependencies": {}
 }
