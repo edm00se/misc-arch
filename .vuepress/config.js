@@ -1,7 +1,7 @@
 const path = require('path')
 let basePath = '/misc/';
 
-if(process.env.NOW){
+if(process.env.NOW_BUILD === 'true'){
   basePath = '/';
 }
 
