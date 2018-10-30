@@ -1,9 +1,14 @@
 const path = require('path')
+let basePath = '/misc/';
+
+if(process.env.NOW){
+  basePath = '/';
+}
 
 module.exports = {
   title: '/misc', // …
   description: 'a place for miscellanea',
-  base: '/misc/',
+  base: basePath,
   ga: 'UA-53507706-3',
   themeConfig: {
     repo: 'edm00se/misc',
