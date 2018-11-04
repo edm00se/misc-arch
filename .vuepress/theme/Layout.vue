@@ -75,25 +75,6 @@ export default {
   },
 
   mounted () {
-    // update title / meta tags
-    this.currentMetaTags = []
-    const updateMeta = () => {
-      let pageTitle = this.$title
-        .replace(/\[(.*)\]\(.*\)/, '$1') // md links of []()
-        .replace(/\[(.*)\]\[.*\]/, '$1'); // md link sof [][]
-      document.title = pageTitle
-      document.documentElement.lang = this.$lang
-      const meta = [
-        {
-          name: 'description',
-          content: this.$description
-        },
-        ...(this.$page.frontmatter.meta || [])
-      ]
-      this.currentMetaTags = updateMetaTags(meta, this.currentMetaTags)
-    }
-    this.$watch('$page', updateMeta)
-    updateMeta()
 
     // configure progress bar
     nprogress.configure({ showSpinner: false })
