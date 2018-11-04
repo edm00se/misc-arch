@@ -45,7 +45,17 @@ module.exports = {
         title: 'about',
         href: 'about.html'
       }
-    ]
+    ],
+
+    plugins: {
+      '@vuepress/pwa': {
+        serviceWorker: true,
+        updatePopup: {
+          message: "New content is available.",
+          buttonText: "Refresh"
+        }
+      }
+    }
   },
 
   head: [
@@ -58,4 +68,5 @@ module.exports = {
       .modules
       .add(path.resolve(__dirname, './node_modules'))
   }
+
 }
