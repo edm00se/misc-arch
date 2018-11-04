@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/edm00se/misc#readme",
   "dependencies": {
-    "@vuepress/plugin-pwa": "1.0.0-alpha.18",
     "bootstrap": "3.3.7",
     "cross-env": "5.2.0",
     "font-awesome": "4.7.0",
