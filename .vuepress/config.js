@@ -48,6 +48,10 @@ module.exports = {
     ]
   },
 
+  head: [
+    ['link', { rel: 'icon', href: '/logo.png' }]
+  ],
+
   // This allows to install local loaders for the custom theme (eg: sass-loader, less-lodaer)
   chainWebpack: (config, isServer) => {
     config.resolveLoader
