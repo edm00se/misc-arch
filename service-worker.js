@@ -21,19 +21,19 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox
 self.__precacheManifest = [
   {
     "url": "3dp-t-rex.html",
-    "revision": "294a098d32ec70a16c49c9f39a97fa3a"
+    "revision": "4b4b49356e92a38ea3241aa285c4d7af"
   },
   {
     "url": "404.html",
-    "revision": "157a1c6b4a87adb46abc87b33e7330ce"
+    "revision": "3ef8ae2547613ce2795969f0d59e746c"
   },
   {
     "url": "about.html",
-    "revision": "ea81901240bf19b421ab4263d287c551"
+    "revision": "aaaa9e819fc571c65b39fdc2c3583efe"
   },
   {
     "url": "alexa-skill-privacy-policy.html",
-    "revision": "36fbeec74dc2208aade1bd1f46290221"
+    "revision": "5f614b8613df59ccbbe83bcbe567cf9d"
   },
   {
     "url": "assets/css/1.styles.d7d64a3d.css",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "revision": "b713757094e962f5cc5f8c0ce18e4581"
   },
   {
-    "url": "assets/css/styles.60459705.css",
+    "url": "assets/css/styles.453e754b.css",
     "revision": "a09ac325cdc93700972ed397bc6536fa"
   },
   {
@@ -644,12 +644,12 @@ self.__precacheManifest = [
     "revision": "6d304426fe0a397f02d4ce3cf08dc019"
   },
   {
-    "url": "assets/js/app.60459705.js",
-    "revision": "7df1ff78413c3ee15695152253ed0a3d"
+    "url": "assets/js/app.453e754b.js",
+    "revision": "785033cca1e673365eda83c300648787"
   },
   {
     "url": "awesome-board-games.html",
-    "revision": "18e231201c20bcef46329cd158013627"
+    "revision": "1e15f3e8f58c3107d14f26fd7f38bd5b"
   },
   {
     "url": "ico/apple-touch-icon-114x114.png",
@@ -753,7 +753,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "aa6528a15c039d227af8ac34e492d9dd"
+    "revision": "15252bc792135f3a02e85dd116b87925"
   },
   {
     "url": "logo.png",
