@@ -21,19 +21,19 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox
 self.__precacheManifest = [
   {
     "url": "3dp-t-rex.html",
-    "revision": "d0c3a89bd7a2f3be73ee116de9f2a22b"
+    "revision": "294a098d32ec70a16c49c9f39a97fa3a"
   },
   {
     "url": "404.html",
-    "revision": "23971db1cdf923c302473a77da42377f"
+    "revision": "157a1c6b4a87adb46abc87b33e7330ce"
   },
   {
     "url": "about.html",
-    "revision": "9b92fda1bca5e6174fc2a6ec933e1ee3"
+    "revision": "ea81901240bf19b421ab4263d287c551"
   },
   {
     "url": "alexa-skill-privacy-policy.html",
-    "revision": "5caa144ba5e33ada21c0c54571a75f08"
+    "revision": "36fbeec74dc2208aade1bd1f46290221"
   },
   {
     "url": "assets/css/1.styles.d7d64a3d.css",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "revision": "b713757094e962f5cc5f8c0ce18e4581"
   },
   {
-    "url": "assets/css/styles.c1fc321f.css",
+    "url": "assets/css/styles.60459705.css",
     "revision": "a09ac325cdc93700972ed397bc6536fa"
   },
   {
@@ -636,20 +636,20 @@ self.__precacheManifest = [
     "revision": "b8d7dd60658fc55f20b28855d5c52169"
   },
   {
-    "url": "assets/js/7.8484e796.js",
-    "revision": "bccca4f7d29cc2ceeaa18bde2b70371f"
+    "url": "assets/js/7.77faf9e1.js",
+    "revision": "be289c35d845913178ac1bd257b65009"
   },
   {
     "url": "assets/js/8.68aa6d2c.js",
     "revision": "6d304426fe0a397f02d4ce3cf08dc019"
   },
   {
-    "url": "assets/js/app.c1fc321f.js",
-    "revision": "17d5041d8c27faedd3549e763099e863"
+    "url": "assets/js/app.60459705.js",
+    "revision": "7df1ff78413c3ee15695152253ed0a3d"
   },
   {
     "url": "awesome-board-games.html",
-    "revision": "bb41b2dfc3468ae6add8f7147345ee4d"
+    "revision": "18e231201c20bcef46329cd158013627"
   },
   {
     "url": "ico/apple-touch-icon-114x114.png",
@@ -753,7 +753,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "75be009fb29be1faf5f5c090115aed2f"
+    "revision": "aa6528a15c039d227af8ac34e492d9dd"
   },
   {
     "url": "logo.png",
