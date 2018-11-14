@@ -45,5 +45,5 @@ Thanks for reading. I hope you contribute. Have a great game!
 [awesome-orig]: https://awesome.re/
 [gh]: https://github.com/
 [git-scm]: https://git-scm.com/
-[contact-eric]: https://goo.gl/forms/oQeTPDqsGEWGTZoc2
+[contact-eric]: https://bit.ly/ContactEricM
 [vuepress]: https://vuepress.vuejs.org
