@@ -1,7 +1,11 @@
 ---
-lastModified: '2018-11-19'
+lastModified: '2018-11-12'
 comments: true
 ---
+
+# 🦃 First Thing's First 🍗
+
+Happy Thanksgiving!
 
 # A NAS for Home Use
 
