@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/edm00se/misc#readme",
   "dependencies": {
-    "bootstrap": "3.3.7",
+    "bootstrap": "^3.4.1",
     "cross-env": "5.2.0",
     "font-awesome": "4.7.0",
     "less": "3.0.4",
@@ -31,7 +31,7 @@
     "source-sans-pro": "2.20.2",
     "vue-disqus": "3.0.5",
     "vue-tweet-embed": "2.1.2",
-    "vuepress": "0.14.4"
+    "vuepress": "^0.14.4"
   },
   "devDependencies": {}
 }
