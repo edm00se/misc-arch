@@ -11,7 +11,7 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -21,35 +21,35 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox
 self.__precacheManifest = [
   {
     "url": "3dp-t-rex.html",
-    "revision": "4b4b49356e92a38ea3241aa285c4d7af"
+    "revision": "93d1df3cf9944d49ad2c194e7bbfd567"
   },
   {
     "url": "404.html",
-    "revision": "3ef8ae2547613ce2795969f0d59e746c"
+    "revision": "07c7e3f1e10114ae973ddb2a880ab481"
   },
   {
     "url": "about.html",
-    "revision": "aaaa9e819fc571c65b39fdc2c3583efe"
+    "revision": "8a4df0d97a676703b5e1caaa45abffe8"
   },
   {
     "url": "alexa-skill-privacy-policy.html",
-    "revision": "5f614b8613df59ccbbe83bcbe567cf9d"
+    "revision": "91dcc5b2d28ae656ee2b1a7181fcf286"
   },
   {
-    "url": "assets/css/1.styles.d7d64a3d.css",
-    "revision": "d41d8cd98f00b204e9800998ecf8427e"
-  },
-  {
-    "url": "assets/css/2.styles.cad2c2d5.css",
-    "revision": "df7c35ec8029dbbde0735a45f875eaf7"
-  },
-  {
-    "url": "assets/css/3.styles.a96496b2.css",
+    "url": "assets/css/1.styles.184b0eef.css",
     "revision": "b713757094e962f5cc5f8c0ce18e4581"
   },
   {
-    "url": "assets/css/styles.453e754b.css",
-    "revision": "a09ac325cdc93700972ed397bc6536fa"
+    "url": "assets/css/2.styles.6fe15d7a.css",
+    "revision": "df7c35ec8029dbbde0735a45f875eaf7"
+  },
+  {
+    "url": "assets/css/3.styles.bee25e82.css",
+    "revision": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "url": "assets/css/styles.62798498.css",
+    "revision": "27ffb5e4267df032d626430db0486773"
   },
   {
     "url": "assets/fonts/fontawesome-webfont.674f50d2.eot",
@@ -612,44 +612,44 @@ self.__precacheManifest = [
     "revision": "89889688147bd7575d6327160d64e760"
   },
   {
-    "url": "assets/js/1.d7d64a3d.js",
-    "revision": "c2dd7e606b11d2887ab25f87e1ac0904"
+    "url": "assets/js/1.184b0eef.js",
+    "revision": "b07692b2130199e3b804d288b5d97533"
   },
   {
-    "url": "assets/js/2.cad2c2d5.js",
-    "revision": "cb14d9596acd0ed7d6315a667755f436"
+    "url": "assets/js/2.6fe15d7a.js",
+    "revision": "e69b3a740ce4d30bbf554ee2e82e5eb6"
   },
   {
-    "url": "assets/js/3.a96496b2.js",
-    "revision": "6a4646b94016c306808bf54586f7a85b"
+    "url": "assets/js/3.bee25e82.js",
+    "revision": "063deb543c43c0825a860a0ee22b8667"
   },
   {
-    "url": "assets/js/4.248e07cf.js",
-    "revision": "9c12dbfe5cffc1496cf7acb7d55222b0"
+    "url": "assets/js/4.a86bd575.js",
+    "revision": "2f85757c8cb7dd4c6205696efce4ed00"
   },
   {
-    "url": "assets/js/5.eba3e03a.js",
-    "revision": "ea56a5283b4373603bf77f2c9795281f"
+    "url": "assets/js/5.6639923f.js",
+    "revision": "6367b914c0b0713e771b1bcac3cb2163"
   },
   {
-    "url": "assets/js/6.37705ed4.js",
-    "revision": "b8d7dd60658fc55f20b28855d5c52169"
+    "url": "assets/js/6.c642cc3a.js",
+    "revision": "fc6e47d837bac602c52573f0a2041192"
   },
   {
-    "url": "assets/js/7.77faf9e1.js",
-    "revision": "be289c35d845913178ac1bd257b65009"
+    "url": "assets/js/7.4d1f16f0.js",
+    "revision": "590a9fd85ae0ef93ec99d812d2a99752"
   },
   {
-    "url": "assets/js/8.68aa6d2c.js",
-    "revision": "6d304426fe0a397f02d4ce3cf08dc019"
+    "url": "assets/js/8.48eda0cc.js",
+    "revision": "36a064323d4401901fcb6f649e37c3d1"
   },
   {
-    "url": "assets/js/app.453e754b.js",
-    "revision": "785033cca1e673365eda83c300648787"
+    "url": "assets/js/app.62798498.js",
+    "revision": "8ab6b7af8941ae8d6e31040d0f4ed839"
   },
   {
     "url": "awesome-board-games.html",
-    "revision": "1e15f3e8f58c3107d14f26fd7f38bd5b"
+    "revision": "094d2ceea6354918c17fd2a8caa1bd10"
   },
   {
     "url": "ico/apple-touch-icon-114x114.png",
@@ -753,7 +753,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "15252bc792135f3a02e85dd116b87925"
+    "revision": "9b5ceb99811707ef898a387256c01923"
   },
   {
     "url": "logo.png",
