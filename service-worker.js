@@ -21,23 +21,23 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "3dp-t-rex.html",
-    "revision": "8a697991dd324630e9aa636388f0355a"
+    "revision": "da205372befafc729e55401488c18b62"
   },
   {
     "url": "3dprint-service.html",
-    "revision": "84bfa92de8f1fe08396e374cc838f74c"
+    "revision": "e27e4eb4584521c94ab4e37cfab37e3b"
   },
   {
     "url": "404.html",
-    "revision": "6b92a3af828c636d6471809583eee320"
+    "revision": "586798fd7368e8ffef1b463c43999b1d"
   },
   {
     "url": "about.html",
-    "revision": "e37a01ce4c1d6f47f91191162d4a9b92"
+    "revision": "3a7a69426f53b2dc8c55fb6b076b313e"
   },
   {
     "url": "alexa-skill-privacy-policy.html",
-    "revision": "5dc0f72487ee2368e16430ee57ecbee2"
+    "revision": "547198564dc02cf702c271fb43210f01"
   },
   {
     "url": "assets/css/0.styles.a6e4fef5.css",
@@ -592,12 +592,12 @@ self.__precacheManifest = [
     "revision": "5025e655a33aade3cf17badd29972ca3"
   },
   {
-    "url": "assets/js/app.68db9b10.js",
-    "revision": "6e291f33de5402bcca0707a9872a0b69"
+    "url": "assets/js/app.afdaa797.js",
+    "revision": "99a7604f17b96d5fad1e87d6b9100b40"
   },
   {
     "url": "awesome-board-games.html",
-    "revision": "cbf0d42ac232da6cdf018b2db60e579f"
+    "revision": "1a6b61cc2e371588ea2ed68d4b1a7cd3"
   },
   {
     "url": "ico/apple-touch-icon-114x114.png",
@@ -701,7 +701,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "069e67cc945943608c8feb230e7f73d8"
+    "revision": "3bfcfc5044fe68cbe1c79e9c52d1ff72"
   },
   {
     "url": "logo.png",
