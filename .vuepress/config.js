@@ -24,6 +24,11 @@ module.exports = {
         site: 'twitter'
       },
       {
+        href: 'https://www.instagram.com/edm00se/',
+        cssIcon: 'fa fa-fw fa-instagram',
+        site: 'instagram'
+      },
+      {
         href: 'https://stackoverflow.com/cv/edm00se',
         cssIcon: 'fa fa-fw fa-stack-overflow',
         site: 'stackOverflow'
