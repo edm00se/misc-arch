@@ -42,7 +42,7 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <p class="small">
-                      &copy; 2018 <a href="https://edm00se.codes/">@edm00se</a>
+                      &copy; 2019 <a href="https://edm00se.codes/">@edm00se</a>
                       <div class="center">
                         <a v-for="link in $site.themeConfig.usefulLinks" :key="link.href" :href="link.href"
                           :class="link.site" target="_blank" rel="noopener" class="social">
