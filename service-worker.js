@@ -21,23 +21,23 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "3dp-t-rex.html",
-    "revision": "9165ce4d89e67ec1d0fcc208dbea4c50"
+    "revision": "f4a3baca9bcb4132ab1478825c1e5dca"
   },
   {
     "url": "3dprint-service.html",
-    "revision": "c3ccc74a2258fcce3cbd54ceab92f241"
+    "revision": "8b45942ec2feb9af862c98c55bed5513"
   },
   {
     "url": "404.html",
-    "revision": "061c8028dfa666e2f1627314186c2e25"
+    "revision": "18bfc5d2a118043d7bdc5e7a2eb529b9"
   },
   {
     "url": "about.html",
-    "revision": "be6383f24f27ea4b3fe7420be180e1f3"
+    "revision": "7cdd496f001ffb8d962d5b2d77706a21"
   },
   {
     "url": "alexa-skill-privacy-policy.html",
-    "revision": "a3dbd76e2d9ac5ca23852da6194e729f"
+    "revision": "b2c3910ce5744382ae5446a6bd5802e2"
   },
   {
     "url": "assets/css/0.styles.a6e4fef5.css",
@@ -556,8 +556,12 @@ self.__precacheManifest = [
     "revision": "89889688147bd7575d6327160d64e760"
   },
   {
-    "url": "assets/js/10.05e09bd6.js",
-    "revision": "943be027f94de00a6e7b81d83c5b11f5"
+    "url": "assets/js/10.1087a50b.js",
+    "revision": "165cef4e17b2464245ef1f88714c55d3"
+  },
+  {
+    "url": "assets/js/11.1a02bc6a.js",
+    "revision": "681a998a0bb2aecd7259d02a82e987d9"
   },
   {
     "url": "assets/js/2.7e3ab03f.js",
@@ -568,36 +572,40 @@ self.__precacheManifest = [
     "revision": "56c033f6aa41a7efaac39a961a167148"
   },
   {
-    "url": "assets/js/4.14c0ee60.js",
-    "revision": "44fc2b31fc1ab3dac7a457541c1ff2a4"
+    "url": "assets/js/4.5d4ed7d8.js",
+    "revision": "0e2a83a236e75e753d85668a5c7af265"
   },
   {
-    "url": "assets/js/5.6a08eb5b.js",
-    "revision": "0c8a1178f349b3dbcce73d3f3e92c77c"
+    "url": "assets/js/5.bf9c5d87.js",
+    "revision": "f5472e8a6f44abee7c0854c615793db9"
   },
   {
-    "url": "assets/js/6.65044c32.js",
-    "revision": "bea9ae36918c9636010e2aabc8658442"
+    "url": "assets/js/6.a85cb390.js",
+    "revision": "666d7d4d20ca653641ff2cd38e0995fa"
   },
   {
-    "url": "assets/js/7.68f693f4.js",
-    "revision": "b338eb2d6cf568299940d58b3d8ed6f6"
+    "url": "assets/js/7.577246a4.js",
+    "revision": "6d8a35a12f7ba047dc263436e640882e"
   },
   {
     "url": "assets/js/8.de6ebd2f.js",
     "revision": "f8a59ace5ac5d6a167dbab31762687df"
   },
   {
-    "url": "assets/js/9.486119db.js",
-    "revision": "5025e655a33aade3cf17badd29972ca3"
+    "url": "assets/js/9.157c17ef.js",
+    "revision": "8859952231c35f17b350e0e2865a47f3"
   },
   {
-    "url": "assets/js/app.68602cab.js",
-    "revision": "e6144a05ee951d6e8959c555765e0286"
+    "url": "assets/js/app.29ec00f6.js",
+    "revision": "bc31cf4f99127f5e361bb771a592f48c"
   },
   {
     "url": "awesome-board-games.html",
-    "revision": "a8092aade851f9bea5aca125c0b39d1a"
+    "revision": "cf4483aa9bad21041764b5485874689c"
+  },
+  {
+    "url": "deleting-facebook.html",
+    "revision": "a0460e8612550657e76e44ef7d83088b"
   },
   {
     "url": "ico/apple-touch-icon-114x114.png",
@@ -684,6 +692,10 @@ self.__precacheManifest = [
     "revision": "5f00889a24980ba366ee1d3be2534508"
   },
   {
+    "url": "img/Cyberman_Delete.jpg",
+    "revision": "971f78631c993a61c655aec63b829cdb"
+  },
+  {
     "url": "img/Must_Go_Faster.jpg",
     "revision": "aca4d43c70b81a0e3ba242027832b9b7"
   },
@@ -701,7 +713,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c97f195a1e543479074a8594e730c8f6"
+    "revision": "6b4425ffa8f798fc91673673a7a529d1"
   },
   {
     "url": "logo.png",
