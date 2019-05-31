@@ -5,5 +5,5 @@
   "builds": [
     {"src": "package.json", "use": "@now/static-build"}
   ],
-  "alias": ["misc.edm00se.now.sh","misc-git-master.edm00se.now.sh"]
+  "alias": ["edm00se-misc.now.sh","misc.edm00se.now.sh","misc-git-master.edm00se.now.sh"]
 }
