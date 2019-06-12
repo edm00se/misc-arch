@@ -1,8 +1,8 @@
 <template>
   <div>
     <div id="head-c" class="container">
-        <div class="row">
-          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="row justify-content-md-center">
+          <div class="col col-lg-8 col-md-10">
             <h1 id="blog-name">
               <router-link
                 to="/">
@@ -19,8 +19,8 @@
     </div>
 
     <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="row justify-content-md-center">
+          <div class="col col-lg-8 col-md-10">
               <div class="custom-layout" v-if="$page.frontmatter.layout">
                 <component :is="$page.frontmatter.layout"/>
               </div>
@@ -34,23 +34,23 @@
 
     </div>
 
-    <div class="container">
+    <div class="container footer">
         <center>
             <hr width="50%">
             <span id="subtitle">{{ $description }}</span>
 
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <p class="small">
-                      &copy; 2019 <a href="https://edm00se.codes/">@edm00se</a>
-                      <div class="center">
-                        <a v-for="link in $site.themeConfig.usefulLinks" :key="link.href" :href="link.href"
-                          :class="link.site" target="_blank" rel="noopener" class="social">
-                          <i :class="link.cssIcon"></i>
-                        </a>
-                      </div>
-                    </p>
-                </div>
+            <div class="row justify-content-md-center">
+              <div class="col col-lg-8 col-md-10">
+                  <p class="small">
+                    &copy; 2019 <a href="https://edm00se.codes/">@edm00se</a>
+                  </p>
+                  <center>
+                    <a v-for="link in $site.themeConfig.usefulLinks" :key="link.href" :href="link.href"
+                      :class="link.site" target="_blank" rel="noopener" class="social">
+                      <i :class="link.cssIcon"></i>
+                    </a>
+                  </center>
+              </div>
             </div>
         </center>
     </div>
