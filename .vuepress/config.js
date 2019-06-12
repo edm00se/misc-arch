@@ -9,8 +9,6 @@ module.exports = {
   title: '/misc', // …
   description: 'a place for miscellanea',
   base: basePath,
-  ga: 'UA-53507706-3',
-  serviceWorker: true,
   themeConfig: {
     repo: 'edm00se/misc',
     docsRepo: 'edm00se/misc',
@@ -85,6 +83,19 @@ module.exports = {
     config.resolveLoader
       .modules
       .add(path.resolve(__dirname, './node_modules'))
-  }
+  },
+
+  plugins: [
+    ['@vuepress/google-analytics', {
+      ga: 'UA-53507706-3'
+    }],
+    ['@vuepress/pwa', {
+      serviceWorker: true,
+      updatePopup: {
+        message: "New content is available.",
+        buttonText: "Refresh"
+      }
+    }]
+  ]
 
 }
