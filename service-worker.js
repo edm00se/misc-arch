@@ -21,27 +21,27 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "3dp-t-rex.html",
-    "revision": "10f20ae7916911fab447a17c351e0228"
+    "revision": "e369a64a4e2684c4e856895b2bfe63e3"
   },
   {
     "url": "3dprint-service.html",
-    "revision": "5eb3b7da9fb282694a5f5e8a1a50a721"
+    "revision": "b0dfeeb95c3d97f5c32de736e7208177"
   },
   {
     "url": "404.html",
-    "revision": "446a8f12d05b3101a7cf034f09b813ed"
+    "revision": "d93e7d8c8c823a513cf7b0d743adc798"
   },
   {
     "url": "about.html",
-    "revision": "1e6363d25649f8317553dc9df0e828f2"
+    "revision": "0760608a7202b8674846d423bbb61f85"
   },
   {
     "url": "alexa-skill-privacy-policy.html",
-    "revision": "ed7e88ea535bc8bfd80693d15e9dea28"
+    "revision": "e554eae8db7d052890a8a2dca10128fa"
   },
   {
-    "url": "assets/css/0.styles.a6e4fef5.css",
-    "revision": "e627ddae4674476338e013703f95ec16"
+    "url": "assets/css/0.styles.fff912e4.css",
+    "revision": "ef50c16d1326175ab0f09f7e9bce0a18"
   },
   {
     "url": "assets/fonts/fontawesome-webfont.674f50d2.eot",
@@ -58,22 +58,6 @@ self.__precacheManifest = [
   {
     "url": "assets/fonts/fontawesome-webfont.fee66e71.woff",
     "revision": "fee66e712a8a08eef5805a46892932ad"
-  },
-  {
-    "url": "assets/fonts/glyphicons-halflings-regular.448c34a5.woff2",
-    "revision": "448c34a56d699c29117adc64c43affeb"
-  },
-  {
-    "url": "assets/fonts/glyphicons-halflings-regular.e18bbf61.ttf",
-    "revision": "e18bbf611f2a2e43afc071aa2f4e1512"
-  },
-  {
-    "url": "assets/fonts/glyphicons-halflings-regular.f4769f9b.eot",
-    "revision": "f4769f9bdb7466be65088239c12046d1"
-  },
-  {
-    "url": "assets/fonts/glyphicons-halflings-regular.fa277232.woff",
-    "revision": "fa2772327f55d8198301fdb8bcfc8158"
   },
   {
     "url": "assets/fonts/SourceCodePro-Black.0297c60f.eot",
@@ -552,10 +536,6 @@ self.__precacheManifest = [
     "revision": "912ec66d7572ff821749319396470bde"
   },
   {
-    "url": "assets/img/glyphicons-halflings-regular.89889688.svg",
-    "revision": "89889688147bd7575d6327160d64e760"
-  },
-  {
     "url": "assets/js/10.1087a50b.js",
     "revision": "165cef4e17b2464245ef1f88714c55d3"
   },
@@ -596,16 +576,16 @@ self.__precacheManifest = [
     "revision": "8859952231c35f17b350e0e2865a47f3"
   },
   {
-    "url": "assets/js/app.9069925b.js",
-    "revision": "6687427efa7bf59e3819e618dbededfc"
+    "url": "assets/js/app.fc55fddf.js",
+    "revision": "b7874a38d09c81f4e2ac72d023132617"
   },
   {
     "url": "awesome-board-games.html",
-    "revision": "688f85723720cd6063ab56b0c8acb4e9"
+    "revision": "12782cd7807847a9cba1c37ea427d00a"
   },
   {
     "url": "deleting-facebook.html",
-    "revision": "dcd7a4c1b50ee039351e551d1652db34"
+    "revision": "16f4f702be15d7e0f882c342ec7f487e"
   },
   {
     "url": "ico/apple-touch-icon-114x114.png",
@@ -713,7 +693,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "1a59f5da5e71044f5094e473596f64a5"
+    "revision": "8a4146138bb78ae29b2f70e215bfb23f"
   },
   {
     "url": "logo.png",
