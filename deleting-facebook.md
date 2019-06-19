@@ -11,6 +11,8 @@ The Internet itself is a technological achievement, one which all but eliminated
 
 Some time ago, when the Internet was still becoming mainstream, I heard an anecdote that has stuck with me. It goes to the effect of ~"the Internet is great in that it gives everyone an equal voice; the Internet also gives _everyone_ an equal voice." As the sharing of junk thoughts and poor reasoning are still worth the "currency" of promoting them over a reason-driven environment, it's no longer something I wish to be a part of.
 
+UPDATE: it is done.
+
 ## Jumping Ship
 
 ![Cyberman DELETE](img/Cyberman_Delete.jpg)
