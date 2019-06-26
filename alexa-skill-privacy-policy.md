@@ -10,7 +10,7 @@ This applies to the following Alexa Skills:
 
 - [Developer Dog][dev-dog-skill], a dog-themed motivational for developers
 - [Ed the Moose][ed-the-moose-skill], a skill for keeping up to date with the online publishings of [@edm00se][me]
-- Sweaty McSweaterson\*, a skill for checking against a common "sweat threshold" for those of a perspiring persuation
+- [Sweaty McSweaterson][sweaty-man-skill]\*, a skill for checking against a common "sweat threshold" for those of a perspiring persuation
 
 ## What information does the skill collect?
 
@@ -24,6 +24,7 @@ Nothing. We don't collect any identifying information.
 
 No and never. These are hobby skills meant for fun and amusement, which are primarily open sourced. 
 
-[dev-dog-skill]: https://amazon.com/edm00se-Developer-Dog/dp/B06XVW6TLL/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1540143603&sr=1-1&keywords=edm00se
-[ed-the-moose-skill]: https://amazon.com/edm00se-Ed-the-Moose/dp/B075812S1H/ref=sr_1_2?s=digital-skills&ie=UTF8&qid=1540143603&sr=1-2&keywords=edm00se
+[dev-dog-skill]: https://amazon.com/edm00se-Developer-Dog/dp/B06XVW6TLL/
+[ed-the-moose-skill]: https://amazon.com/edm00se-Ed-the-Moose/dp/B075812S1H/
+[sweaty-man-skill]: https://amazon.com/edm00se-Sweaty-McSweaterson/dp/B07K16B9VV/
 [me]: https://edm00se.codes/
