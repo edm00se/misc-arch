@@ -21,23 +21,23 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "3dp-t-rex.html",
-    "revision": "3cfdf93fd57323d05cbfbbd50db8430a"
+    "revision": "6bfd772bcb4db6a0a51d98237827551a"
   },
   {
     "url": "3dprint-service.html",
-    "revision": "62f40915041d00e47005ce907202b46b"
+    "revision": "86d07a7c49225f0c7d8db1505fc5515e"
   },
   {
     "url": "404.html",
-    "revision": "e4305a64b95c89e543ddda3285194db8"
+    "revision": "6ec8aba62fdb6fc48ace376d8f270a29"
   },
   {
     "url": "about.html",
-    "revision": "915e1c6a72a7ba2de5f0499109a939b6"
+    "revision": "5ad744490da5fe1fcea34b28bfd70d10"
   },
   {
     "url": "alexa-skill-privacy-policy.html",
-    "revision": "33de4c6e88b74c22404e45c81a7cc25d"
+    "revision": "0c7cbd791a36ac36071f8aeef7d7849e"
   },
   {
     "url": "assets/css/0.styles.fff912e4.css",
@@ -564,8 +564,8 @@ self.__precacheManifest = [
     "revision": "666d7d4d20ca653641ff2cd38e0995fa"
   },
   {
-    "url": "assets/js/7.577246a4.js",
-    "revision": "6d8a35a12f7ba047dc263436e640882e"
+    "url": "assets/js/7.3a0d4a36.js",
+    "revision": "c314104be34ca14a259b380dd5a425a5"
   },
   {
     "url": "assets/js/8.de6ebd2f.js",
@@ -576,16 +576,16 @@ self.__precacheManifest = [
     "revision": "784711db2cd99cf21dce80460b646305"
   },
   {
-    "url": "assets/js/app.2fc471f0.js",
-    "revision": "7141550b500c446a198d38309b86321c"
+    "url": "assets/js/app.38642323.js",
+    "revision": "55c988a641ebb50000201868d0895829"
   },
   {
     "url": "awesome-board-games.html",
-    "revision": "c0f5cc1bd4eab9ce061fdcc0a10b50da"
+    "revision": "92b672b6cf358a024991825d19af8b03"
   },
   {
     "url": "deleting-facebook.html",
-    "revision": "46a940968508b0c49af543a7b977eb73"
+    "revision": "9d90ace5e164fa2a2c4237f710080500"
   },
   {
     "url": "ico/apple-touch-icon-114x114.png",
@@ -693,7 +693,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e3e6c36a035e38e1261f282067842cc0"
+    "revision": "2e32609a486eaa3b67786e79385c65de"
   },
   {
     "url": "logo.png",
