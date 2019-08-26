@@ -24,7 +24,7 @@
     "bootstrap": "^4.3.1",
     "cross-env": "5.2.0",
     "font-awesome": "4.7.0",
-    "less": "^3.10.1",
+    "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "moment": "^2.24.0",
     "source-code-pro": "2.30.1",
