@@ -21,27 +21,27 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "3dp-t-rex.html",
-    "revision": "6ca82a399cdc25b8fef103432767255c"
+    "revision": "3e0811422bce72f6d2caa659d31cf5a3"
   },
   {
     "url": "3dprint-service.html",
-    "revision": "497ea3d38737b1c18e80ecbc18d27600"
+    "revision": "cad42488638e848ef1e03e68f5cd9b5b"
   },
   {
     "url": "404.html",
-    "revision": "39843b953da67e875ca09a866c25b481"
+    "revision": "313d55b3079ca165457bdde5c9ec5eeb"
   },
   {
     "url": "about.html",
-    "revision": "ea463798c2d18ca8d132edb023ed0f44"
+    "revision": "a82745063a5f6887373c67b31490bd38"
   },
   {
     "url": "alexa-skill-privacy-policy.html",
-    "revision": "4b60abca06b79f8ff0b24ba11d83b26d"
+    "revision": "a513a1d482a37af4350dff391afca583"
   },
   {
-    "url": "assets/css/0.styles.1dd29ddc.css",
-    "revision": "906ca0feb1fa4159a9c947ab397d2da7"
+    "url": "assets/css/0.styles.b7903210.css",
+    "revision": "1fcbf5ffadaf0ee035d82349759bb99e"
   },
   {
     "url": "assets/fonts/fontawesome-webfont.674f50d2.eot",
@@ -58,10 +58,6 @@ self.__precacheManifest = [
   {
     "url": "assets/fonts/fontawesome-webfont.fee66e71.woff",
     "revision": "fee66e712a8a08eef5805a46892932ad"
-  },
-  {
-    "url": "assets/fonts/SourceCodePro-Black.0297c60f.eot",
-    "revision": "0297c60f455bfab5d654e9e56442c9f7"
   },
   {
     "url": "assets/fonts/SourceCodePro-Black.e84e1034.ttf",
@@ -84,10 +80,6 @@ self.__precacheManifest = [
     "revision": "b4c4286f28bde6346a42b0789579bbd9"
   },
   {
-    "url": "assets/fonts/SourceCodePro-BlackIt.c7c4bc85.eot",
-    "revision": "c7c4bc8563481b7dd2945d15a8876357"
-  },
-  {
     "url": "assets/fonts/SourceCodePro-BlackIt.ef61c0a4.otf",
     "revision": "ef61c0a4dee35652febea6e93e3ef24a"
   },
@@ -98,10 +90,6 @@ self.__precacheManifest = [
   {
     "url": "assets/fonts/SourceCodePro-BlackIt.ttf.6c036584.woff2",
     "revision": "6c03658445e60bf1b6a566ad2498cc0a"
-  },
-  {
-    "url": "assets/fonts/SourceCodePro-Bold.32cdd791.eot",
-    "revision": "32cdd791755837cf7c6fd966c953585a"
   },
   {
     "url": "assets/fonts/SourceCodePro-Bold.51ada6ce.otf",
@@ -120,10 +108,6 @@ self.__precacheManifest = [
     "revision": "dcedf356da9362fa2c696ba39ede3a43"
   },
   {
-    "url": "assets/fonts/SourceCodePro-BoldIt.29759126.eot",
-    "revision": "29759126ac2ef17cedc14aa8658920bf"
-  },
-  {
     "url": "assets/fonts/SourceCodePro-BoldIt.d77c7593.ttf",
     "revision": "d77c7593ff187c79a73360a5edd1da75"
   },
@@ -138,10 +122,6 @@ self.__precacheManifest = [
   {
     "url": "assets/fonts/SourceCodePro-BoldIt.ttf.950bc426.woff2",
     "revision": "950bc4260dfce76ede7d3db116036e12"
-  },
-  {
-    "url": "assets/fonts/SourceCodePro-ExtraLight.663b82ac.eot",
-    "revision": "663b82ac03de931af2c2c16e1071f8a7"
   },
   {
     "url": "assets/fonts/SourceCodePro-ExtraLight.c23505a5.otf",
@@ -168,20 +148,12 @@ self.__precacheManifest = [
     "revision": "d89fffe99ded30ad5f46e3f6380c2913"
   },
   {
-    "url": "assets/fonts/SourceCodePro-ExtraLightIt.fbe84539.eot",
-    "revision": "fbe84539eff19eab0ca6f52f1454ba64"
-  },
-  {
     "url": "assets/fonts/SourceCodePro-ExtraLightIt.otf.e2572504.woff",
     "revision": "e257250436e7559bcc65ddd3fb9321ec"
   },
   {
     "url": "assets/fonts/SourceCodePro-ExtraLightIt.ttf.bffdea70.woff2",
     "revision": "bffdea7012d4953623067f93764f030e"
-  },
-  {
-    "url": "assets/fonts/SourceCodePro-It.0b13a012.eot",
-    "revision": "0b13a012382732188fcd6f65db36da6e"
   },
   {
     "url": "assets/fonts/SourceCodePro-It.13ed3db1.otf",
@@ -204,10 +176,6 @@ self.__precacheManifest = [
     "revision": "2b369146b8370ebd12b1a70005b1b492"
   },
   {
-    "url": "assets/fonts/SourceCodePro-Light.ba12b31b.eot",
-    "revision": "ba12b31b8e483feb8cb03b6791bde14f"
-  },
-  {
     "url": "assets/fonts/SourceCodePro-Light.cf1c1e30.ttf",
     "revision": "cf1c1e30cdd58629e6c71e18aac4096a"
   },
@@ -224,10 +192,6 @@ self.__precacheManifest = [
     "revision": "191657a5f783cfbef7b5c55246a2c0f1"
   },
   {
-    "url": "assets/fonts/SourceCodePro-LightIt.a6007c13.eot",
-    "revision": "a6007c13135b460c59ff6706bbfa1faa"
-  },
-  {
     "url": "assets/fonts/SourceCodePro-LightIt.c053d3c5.ttf",
     "revision": "c053d3c5121a2dec272af8820a5929ad"
   },
@@ -238,10 +202,6 @@ self.__precacheManifest = [
   {
     "url": "assets/fonts/SourceCodePro-LightIt.ttf.1f098640.woff2",
     "revision": "1f0986409cfe353b12604629bac1b987"
-  },
-  {
-    "url": "assets/fonts/SourceCodePro-Medium.358f7b28.eot",
-    "revision": "358f7b28a9cb188cd4806d1b5c4e4cb5"
   },
   {
     "url": "assets/fonts/SourceCodePro-Medium.472c7e7a.ttf",
@@ -258,10 +218,6 @@ self.__precacheManifest = [
   {
     "url": "assets/fonts/SourceCodePro-Medium.ttf.8fcd3359.woff2",
     "revision": "8fcd3359d7bc0182dc9b0f4f63033e90"
-  },
-  {
-    "url": "assets/fonts/SourceCodePro-MediumIt.2af5b726.eot",
-    "revision": "2af5b726e9e989424115f38eb9a145eb"
   },
   {
     "url": "assets/fonts/SourceCodePro-MediumIt.4e272d34.otf",
@@ -288,10 +244,6 @@ self.__precacheManifest = [
     "revision": "20964ddec742937a7f153247edf5c09e"
   },
   {
-    "url": "assets/fonts/SourceCodePro-Regular.d5892edc.eot",
-    "revision": "d5892edc24a4ec262052ebb4dcb3fec8"
-  },
-  {
     "url": "assets/fonts/SourceCodePro-Regular.otf.13ecee9d.woff",
     "revision": "13ecee9da9892b550e5960d65158f356"
   },
@@ -304,10 +256,6 @@ self.__precacheManifest = [
     "revision": "0f54274d1c32d7255172e7feda5a2c11"
   },
   {
-    "url": "assets/fonts/SourceCodePro-Semibold.b01ff9c3.eot",
-    "revision": "b01ff9c3c4d4bd843634e697a5b13ca1"
-  },
-  {
     "url": "assets/fonts/SourceCodePro-Semibold.fd020cec.otf",
     "revision": "fd020cec8a5ae2a7210d8bf29eb6d3b4"
   },
@@ -318,10 +266,6 @@ self.__precacheManifest = [
   {
     "url": "assets/fonts/SourceCodePro-Semibold.ttf.9744f877.woff2",
     "revision": "9744f877fc5b6cb47c2868e8c5340779"
-  },
-  {
-    "url": "assets/fonts/SourceCodePro-SemiboldIt.1b78a6d8.eot",
-    "revision": "1b78a6d8b0204c453c82aa1b08b32e46"
   },
   {
     "url": "assets/fonts/SourceCodePro-SemiboldIt.83893e6b.ttf",
@@ -576,16 +520,16 @@ self.__precacheManifest = [
     "revision": "784711db2cd99cf21dce80460b646305"
   },
   {
-    "url": "assets/js/app.12f04948.js",
-    "revision": "82e0a3dc72514e17ffce0256900d2e13"
+    "url": "assets/js/app.4b2cf1dc.js",
+    "revision": "a5237f491add8e95025115bdf931d76b"
   },
   {
     "url": "awesome-board-games.html",
-    "revision": "697fd7a9598256ad833b7bad25770ee9"
+    "revision": "85b55e132c5dfb51ceb335f9512b1cb1"
   },
   {
     "url": "deleting-facebook.html",
-    "revision": "ee57cb0957054fc369b855cd59e43a70"
+    "revision": "82b4f96c99fe58711deecba467a89bc7"
   },
   {
     "url": "ico/apple-touch-icon-114x114.png",
@@ -693,7 +637,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "805d857c1c5ecdedbe1af367b8a672c5"
+    "revision": "20f7394bf13355d1abe57da875fddd35"
   },
   {
     "url": "logo.png",
