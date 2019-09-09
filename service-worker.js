@@ -21,27 +21,27 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "3dp-t-rex.html",
-    "revision": "487e2e57956f285c76bcd42f177dba83"
+    "revision": "6ca82a399cdc25b8fef103432767255c"
   },
   {
     "url": "3dprint-service.html",
-    "revision": "45d14dca7b05667b68d0b5d0d825bcf8"
+    "revision": "497ea3d38737b1c18e80ecbc18d27600"
   },
   {
     "url": "404.html",
-    "revision": "bf11e0330192988297baa9b1ea460ad8"
+    "revision": "39843b953da67e875ca09a866c25b481"
   },
   {
     "url": "about.html",
-    "revision": "d756e00b968f484eaecb471e3ae83f33"
+    "revision": "ea463798c2d18ca8d132edb023ed0f44"
   },
   {
     "url": "alexa-skill-privacy-policy.html",
-    "revision": "4ac1c98f36e3cc42fba4bfc595f2fdc2"
+    "revision": "4b60abca06b79f8ff0b24ba11d83b26d"
   },
   {
-    "url": "assets/css/0.styles.fff912e4.css",
-    "revision": "ef50c16d1326175ab0f09f7e9bce0a18"
+    "url": "assets/css/0.styles.1dd29ddc.css",
+    "revision": "906ca0feb1fa4159a9c947ab397d2da7"
   },
   {
     "url": "assets/fonts/fontawesome-webfont.674f50d2.eot",
@@ -340,196 +340,196 @@ self.__precacheManifest = [
     "revision": "b2c9b70e06203d4e286f505334c394ce"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Black.604a5970.ttf",
-    "revision": "604a59706d4852f5f5c5362aa035ccf9"
+    "url": "assets/fonts/SourceSansPro-Black.0ef9ee9f.otf",
+    "revision": "0ef9ee9f7ae99dcdff63ec103389be32"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Black.73a66c98.otf",
-    "revision": "73a66c9820fe5a3f219013658ccacbfe"
+    "url": "assets/fonts/SourceSansPro-Black.4a31d5fa.ttf",
+    "revision": "4a31d5fa14f4c251809e7bcd6f954aea"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Black.otf.c685b72e.woff",
-    "revision": "c685b72edfce430e96b25f999849be40"
+    "url": "assets/fonts/SourceSansPro-Black.otf.2c99d731.woff",
+    "revision": "2c99d731f47d20365f2358feb26a2a6c"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Black.ttf.fc3e9552.woff2",
-    "revision": "fc3e95520afb7e2a0e67857ad4c2aba4"
+    "url": "assets/fonts/SourceSansPro-Black.ttf.1ec93fb0.woff2",
+    "revision": "1ec93fb0f9636c560e2185567ab4dccf"
   },
   {
-    "url": "assets/fonts/SourceSansPro-BlackIt.7f823257.otf",
-    "revision": "7f823257c5190f6cd104160d59f66e6c"
+    "url": "assets/fonts/SourceSansPro-BlackIt.0bf3a60f.otf",
+    "revision": "0bf3a60fecf77ce612a02da05a9efb7d"
   },
   {
-    "url": "assets/fonts/SourceSansPro-BlackIt.f61110ca.ttf",
-    "revision": "f61110ca65f6bcfca4d1aeb3ca8b3e73"
+    "url": "assets/fonts/SourceSansPro-BlackIt.88c36b15.ttf",
+    "revision": "88c36b15c9d9d17f94cfc16347fa1457"
   },
   {
-    "url": "assets/fonts/SourceSansPro-BlackIt.otf.0e2f3d03.woff",
-    "revision": "0e2f3d034954f0549af67f4eaca239bd"
+    "url": "assets/fonts/SourceSansPro-BlackIt.otf.9330ab0d.woff",
+    "revision": "9330ab0d245f7b6e97f9e9fd6a60b179"
   },
   {
-    "url": "assets/fonts/SourceSansPro-BlackIt.ttf.de6c0dd9.woff2",
-    "revision": "de6c0dd91e4097f07e5192e9684e8a60"
+    "url": "assets/fonts/SourceSansPro-BlackIt.ttf.400e7325.woff2",
+    "revision": "400e7325d7cc18264f6bce3b11e0eda6"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Bold.0f05d84e.otf",
-    "revision": "0f05d84ea95062b98f423c141ae19c09"
+    "url": "assets/fonts/SourceSansPro-Bold.b23705a4.otf",
+    "revision": "b23705a4082d8c84d2533a37e9fb0811"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Bold.31d4f8d1.ttf",
-    "revision": "31d4f8d135581d9623d4caa76b834517"
+    "url": "assets/fonts/SourceSansPro-Bold.cd9e6b79.ttf",
+    "revision": "cd9e6b790a20bbaf25ec0027060f6c3c"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Bold.otf.4c387827.woff",
-    "revision": "4c38782791cb12faae0e2dd6f2488182"
+    "url": "assets/fonts/SourceSansPro-Bold.otf.ac261598.woff",
+    "revision": "ac261598a5964b71c9eaa3fe76356b4e"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Bold.ttf.19e9f355.woff2",
-    "revision": "19e9f35589c9abb072755df4ab19175c"
+    "url": "assets/fonts/SourceSansPro-Bold.ttf.07a20717.woff2",
+    "revision": "07a207178039f72a957df5e77b061b37"
   },
   {
-    "url": "assets/fonts/SourceSansPro-BoldIt.b6e20e05.otf",
-    "revision": "b6e20e05d5fc3569ad658d2464e30691"
+    "url": "assets/fonts/SourceSansPro-BoldIt.07ceebf1.otf",
+    "revision": "07ceebf1dec81bf92b226c6d806c21fb"
   },
   {
-    "url": "assets/fonts/SourceSansPro-BoldIt.c2ebd385.ttf",
-    "revision": "c2ebd385fd30cba2bcb48a0f15bba1c1"
+    "url": "assets/fonts/SourceSansPro-BoldIt.7e401b3e.ttf",
+    "revision": "7e401b3e06e481d0314c9bd1a93c9b9b"
   },
   {
-    "url": "assets/fonts/SourceSansPro-BoldIt.otf.e7850364.woff",
-    "revision": "e7850364e3e1eb62a0bb4438dd6ff4d2"
+    "url": "assets/fonts/SourceSansPro-BoldIt.otf.b81c2d8b.woff",
+    "revision": "b81c2d8b4d22ffa9b6ab1dc52843f40d"
   },
   {
-    "url": "assets/fonts/SourceSansPro-BoldIt.ttf.5bdabebc.woff2",
-    "revision": "5bdabebca49fb521bbe77f5029000c77"
+    "url": "assets/fonts/SourceSansPro-BoldIt.ttf.433da739.woff2",
+    "revision": "433da739918f1fbd0ff8c83e10116698"
   },
   {
-    "url": "assets/fonts/SourceSansPro-ExtraLight.0033199c.otf",
-    "revision": "0033199cdbdfb77eee2c80479d61fb6e"
+    "url": "assets/fonts/SourceSansPro-ExtraLight.8d0c3b1c.ttf",
+    "revision": "8d0c3b1ca9f922ff1809c1ef429910d1"
   },
   {
-    "url": "assets/fonts/SourceSansPro-ExtraLight.b7e3146c.ttf",
-    "revision": "b7e3146cf2b5945e959a03f33000e64c"
+    "url": "assets/fonts/SourceSansPro-ExtraLight.c867d05d.otf",
+    "revision": "c867d05d4ff064b1563c57f6a800db61"
   },
   {
-    "url": "assets/fonts/SourceSansPro-ExtraLight.otf.7e280f05.woff",
-    "revision": "7e280f054f7ef5ae97de69abbedc636b"
+    "url": "assets/fonts/SourceSansPro-ExtraLight.otf.d577e2c5.woff",
+    "revision": "d577e2c5c6915fcefb0de4037f092e83"
   },
   {
-    "url": "assets/fonts/SourceSansPro-ExtraLight.ttf.79710ea1.woff2",
-    "revision": "79710ea185543988ee919374c2e637e3"
+    "url": "assets/fonts/SourceSansPro-ExtraLight.ttf.d92614da.woff2",
+    "revision": "d92614daa93b6a308c74465b3b5e5040"
   },
   {
-    "url": "assets/fonts/SourceSansPro-ExtraLightIt.70fc1bea.otf",
-    "revision": "70fc1bea9ce5ecd6fb70321ff5efd407"
+    "url": "assets/fonts/SourceSansPro-ExtraLightIt.5f6c950a.ttf",
+    "revision": "5f6c950a5d5fee9299eb0fcb9d2adb0f"
   },
   {
-    "url": "assets/fonts/SourceSansPro-ExtraLightIt.b2bbec0d.ttf",
-    "revision": "b2bbec0dc74b4a63ab1be8ef1fdc2daa"
+    "url": "assets/fonts/SourceSansPro-ExtraLightIt.d6648c78.otf",
+    "revision": "d6648c78d38c357e5c81c8e0a6d0aa0c"
   },
   {
-    "url": "assets/fonts/SourceSansPro-ExtraLightIt.otf.42afdfc6.woff",
-    "revision": "42afdfc6a798a7355049e9e15a18242c"
+    "url": "assets/fonts/SourceSansPro-ExtraLightIt.otf.9b9d35be.woff",
+    "revision": "9b9d35be0ea84faee13c0b4f8d1e6af2"
   },
   {
-    "url": "assets/fonts/SourceSansPro-ExtraLightIt.ttf.20c8bb73.woff2",
-    "revision": "20c8bb73b6a45101d8cbb7acb59ad286"
+    "url": "assets/fonts/SourceSansPro-ExtraLightIt.ttf.82097c26.woff2",
+    "revision": "82097c26863b6f5a2ed9d4679e2a0e5a"
   },
   {
-    "url": "assets/fonts/SourceSansPro-It.1c9a55c7.ttf",
-    "revision": "1c9a55c7f35e2dd756b383a100086e33"
+    "url": "assets/fonts/SourceSansPro-It.6c362e00.ttf",
+    "revision": "6c362e00c9a0cd2688c041229cb6446b"
   },
   {
-    "url": "assets/fonts/SourceSansPro-It.a7294e5c.otf",
-    "revision": "a7294e5cbe68c7943bd4f9dbbc00ad69"
+    "url": "assets/fonts/SourceSansPro-It.ad486cdf.otf",
+    "revision": "ad486cdf84121217b2b4cac5b8fc7816"
   },
   {
-    "url": "assets/fonts/SourceSansPro-It.otf.8c69dcba.woff",
-    "revision": "8c69dcbad035cdc61ec6a1b8725be159"
+    "url": "assets/fonts/SourceSansPro-It.otf.5f31e7ec.woff",
+    "revision": "5f31e7ec6f0c0325ab0e5e569d2418e3"
   },
   {
-    "url": "assets/fonts/SourceSansPro-It.ttf.ca526e3f.woff2",
-    "revision": "ca526e3febf4f1cbfc55944cccf9c3bb"
+    "url": "assets/fonts/SourceSansPro-It.ttf.7ee03da8.woff2",
+    "revision": "7ee03da8add1610f0a9cb55f7047dbb0"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Light.c3ebad2f.otf",
-    "revision": "c3ebad2f706f603566fd2b6170d164ec"
+    "url": "assets/fonts/SourceSansPro-Light.420d839a.otf",
+    "revision": "420d839a0ccfb6a040d3a5c6af03c5aa"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Light.cf7ad074.ttf",
-    "revision": "cf7ad074cf9ba2ef23e036076bfaa7b6"
+    "url": "assets/fonts/SourceSansPro-Light.e7daa4ab.ttf",
+    "revision": "e7daa4ab63e5209eedac1adcb98a7fed"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Light.otf.ed890ecc.woff",
-    "revision": "ed890ecc8f67e0f290637c00477ea5e2"
+    "url": "assets/fonts/SourceSansPro-Light.otf.cd6456a8.woff",
+    "revision": "cd6456a86c3b012a26c5afe1353a3b55"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Light.ttf.cee2125b.woff2",
-    "revision": "cee2125bd4c2bda53fa8d89a0cadda2c"
+    "url": "assets/fonts/SourceSansPro-Light.ttf.7db69e93.woff2",
+    "revision": "7db69e930fff9eba1e8eb6fdd41c826e"
   },
   {
-    "url": "assets/fonts/SourceSansPro-LightIt.22e6341a.ttf",
-    "revision": "22e6341a7dabac12a9cb72e00455a819"
+    "url": "assets/fonts/SourceSansPro-LightIt.0b4be0f9.otf",
+    "revision": "0b4be0f981068bdd05dd1c7b5933ef2d"
   },
   {
-    "url": "assets/fonts/SourceSansPro-LightIt.6257d6c6.otf",
-    "revision": "6257d6c642f1893791faf0bb058a79d7"
+    "url": "assets/fonts/SourceSansPro-LightIt.cf7fa055.ttf",
+    "revision": "cf7fa055e48899b14f9fbb9d060e8ad8"
   },
   {
-    "url": "assets/fonts/SourceSansPro-LightIt.otf.fc5755a4.woff",
-    "revision": "fc5755a4eedc1fe8b423094472dba7c3"
+    "url": "assets/fonts/SourceSansPro-LightIt.otf.ed22e01b.woff",
+    "revision": "ed22e01b074d6e061077a1acac00a859"
   },
   {
-    "url": "assets/fonts/SourceSansPro-LightIt.ttf.abba6a94.woff2",
-    "revision": "abba6a943f25ed1ead25ae9f490d5c43"
+    "url": "assets/fonts/SourceSansPro-LightIt.ttf.9b26dad3.woff2",
+    "revision": "9b26dad30000c8cdd7818a7bd699cdeb"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Regular.881b7e6a.ttf",
-    "revision": "881b7e6aad066724af994de318cbf615"
+    "url": "assets/fonts/SourceSansPro-Regular.906ba80a.ttf",
+    "revision": "906ba80ac81b0bb01b7b2fda686c785d"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Regular.ba2040e0.otf",
-    "revision": "ba2040e02c2f8efedb2aba500d9346c0"
+    "url": "assets/fonts/SourceSansPro-Regular.da547242.otf",
+    "revision": "da547242c12b7cfc5f4a4e3c428b9d76"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Regular.otf.90b3418f.woff",
-    "revision": "90b3418f90a38ce4816b6367c4d01155"
+    "url": "assets/fonts/SourceSansPro-Regular.otf.344f4c8d.woff",
+    "revision": "344f4c8d29dfd487ee38394adb229760"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Regular.ttf.5c0f5192.woff2",
-    "revision": "5c0f519297ea97db4f2912905aeeb6cb"
+    "url": "assets/fonts/SourceSansPro-Regular.ttf.8bb5b88b.woff2",
+    "revision": "8bb5b88b2b1b019e3b97b513b2226f3e"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Semibold.0a84f4ef.ttf",
-    "revision": "0a84f4efb63be1fac361afd6ce676a93"
+    "url": "assets/fonts/SourceSansPro-Semibold.d22df054.otf",
+    "revision": "d22df054702cecfc67356e5dd407022f"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Semibold.7e443451.otf",
-    "revision": "7e443451ebde7c4954b767f8dafa2c5a"
+    "url": "assets/fonts/SourceSansPro-Semibold.e8db8af2.ttf",
+    "revision": "e8db8af2e317210f62cc1dd6527be550"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Semibold.otf.d6387291.woff",
-    "revision": "d6387291446e764faa820e46775e109d"
+    "url": "assets/fonts/SourceSansPro-Semibold.otf.90cd4925.woff",
+    "revision": "90cd49254f172e2e99411daf0d574d5f"
   },
   {
-    "url": "assets/fonts/SourceSansPro-Semibold.ttf.a0a70ab9.woff2",
-    "revision": "a0a70ab999f79c3e116011820ebef9ac"
+    "url": "assets/fonts/SourceSansPro-Semibold.ttf.b13c669d.woff2",
+    "revision": "b13c669d61ec35a7682a892456c8d4e9"
   },
   {
-    "url": "assets/fonts/SourceSansPro-SemiboldIt.1ce6e39e.otf",
-    "revision": "1ce6e39e9eeda15ea8395f69cb414764"
+    "url": "assets/fonts/SourceSansPro-SemiboldIt.41995df8.ttf",
+    "revision": "41995df845594d6387bb237b512e8c0e"
   },
   {
-    "url": "assets/fonts/SourceSansPro-SemiboldIt.e5b0b69e.ttf",
-    "revision": "e5b0b69e987e9199d2f072284a2b7121"
+    "url": "assets/fonts/SourceSansPro-SemiboldIt.6de08aa7.otf",
+    "revision": "6de08aa7bf926c26b341cc64cf0f45bd"
   },
   {
-    "url": "assets/fonts/SourceSansPro-SemiboldIt.otf.a9c408b7.woff",
-    "revision": "a9c408b78640f7edd74820dc8d1cba45"
+    "url": "assets/fonts/SourceSansPro-SemiboldIt.otf.b27999d8.woff",
+    "revision": "b27999d81e79da7b61cbab774097d279"
   },
   {
-    "url": "assets/fonts/SourceSansPro-SemiboldIt.ttf.60e71696.woff2",
-    "revision": "60e71696d692f075e44b3026d742d8a8"
+    "url": "assets/fonts/SourceSansPro-SemiboldIt.ttf.c474abd9.woff2",
+    "revision": "c474abd9b02d9299a7944d97270357d1"
   },
   {
     "url": "assets/img/fontawesome-webfont.912ec66d.svg",
@@ -576,16 +576,16 @@ self.__precacheManifest = [
     "revision": "784711db2cd99cf21dce80460b646305"
   },
   {
-    "url": "assets/js/app.ab68184c.js",
-    "revision": "c7586737d629822e197c2e78dc53ae80"
+    "url": "assets/js/app.12f04948.js",
+    "revision": "82e0a3dc72514e17ffce0256900d2e13"
   },
   {
     "url": "awesome-board-games.html",
-    "revision": "96d3a7d4df8f8498b520e040149bd643"
+    "revision": "697fd7a9598256ad833b7bad25770ee9"
   },
   {
     "url": "deleting-facebook.html",
-    "revision": "25320beb4fc780fb233fc7613dec7e47"
+    "revision": "ee57cb0957054fc369b855cd59e43a70"
   },
   {
     "url": "ico/apple-touch-icon-114x114.png",
@@ -693,7 +693,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e17216da47e092fbcf555ba2c00aa159"
+    "revision": "805d857c1c5ecdedbe1af367b8a672c5"
   },
   {
     "url": "logo.png",
